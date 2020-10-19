@@ -15,7 +15,7 @@ Hi, I'm [Shakil Ahmmed](https://shakilahmmed.github.io/), a Full Stack Developer
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning ReactJs and Python; 
+- 🌱 I’m currently learning / Exploring ReactJs , Nodej Js and Python; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@shakilahmmed](mailto:shakilfci461@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.);
 - 📝[Resume](https://shakilahmmed.github.io/images/ShakilAhmmed.pdf)
@@ -23,6 +23,7 @@ Hi, I'm [Shakil Ahmmed](https://shakilahmmed.github.io/), a Full Stack Developer
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
