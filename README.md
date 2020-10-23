@@ -39,7 +39,8 @@ Hi, I'm [Shakil Ahmmed](https://shakilahmmed.github.io/), a Full Stack Developer
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShakilAhmmed&show_icons=true&theme=gotham" alt="ShakilAhmmed" />
 
-</details>
+</details>  
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmmed&layout=compact)]()
 
 
