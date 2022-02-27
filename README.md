@@ -13,7 +13,7 @@ Hi, I'm [Shakil Ahmmed](https://shakilahmmed.github.io/), a Full Stack Developer
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
-- mortar_board Open-Source enthusiast
+- 📖 Open-Source enthusiast
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning / Exploring ReactJs , Nodej Js and Python; 
 - 💬 Ask me about anything, I am happy to help;
