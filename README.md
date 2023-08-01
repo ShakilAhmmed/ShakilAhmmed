@@ -15,7 +15,7 @@ Hi, I'm [Shakil Ahmmed](https://shakilahmmed.github.io/), a Full Stack Developer
 **Talking about Personal Stuffs:**
 - 📖 Open-Source enthusiast
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning / Exploring ReactJs , Node Js and GoLang; 
+- 🌱 I’m currently learning / Exploring DevOps,GoLang and System Design; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@shakilahmmed](mailto:shakilfci461@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.);
 - 📝[Resume](https://shakilahmmed.github.io/images/ShakilAhmmed.pdf)
