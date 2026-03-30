@@ -37,7 +37,7 @@ Hi, I'm [Shakil Ahmmed](https://shakilahmmed.github.io/), a Full Stack Developer
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShakilAhmmed&show_icons=true&theme=gotham" alt="ShakilAhmmed" />
+<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=ShakilAhmmed&show_icons=true&theme=gotham" alt="ShakilAhmmed" />
 
 </details>
 
