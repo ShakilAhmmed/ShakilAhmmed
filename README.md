@@ -1,45 +1,112 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hey there 👋, I'm Shakil Ahmmed</h1>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shakil-ahmmed-435838140/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shakil.rootedcode)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:shakilfci461@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+<h3 align="center">
+ Full-Stack Software Engineer · AI Engineering · Cloud & Distributed Systems
+</h3> 
 
+<p align="center">
+  Building scalable SaaS applications, backend systems & AI-powered products.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shakil-ahmmed-435838140/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ShakilAhmmed">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shakilfci461@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shakilahmmed.github.io/images/ShakilAhmmed.pdf">
+    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=readme&logoColor=white" />
+  </a>
+</p>
 
-<br />
+---
 
-Hi, I'm [Shakil Ahmmed](https://shakilahmmed.github.io/), a Full Stack Developer 🚀 from Bangladesh.Beside's programming, I enjoy traveling.
+<img
+  align="right"
+  width="390"
+  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
+/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-- 📖 Open-Source enthusiast
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning / Exploring DevOps,GoLang and System Design; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@shakilahmmed](mailto:shakilfci461@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.);
-- 📝[Resume](https://shakilahmmed.github.io/images/ShakilAhmmed.pdf)
+### 👨‍💻 About Me
 
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- 💼 Full-Stack Software Engineer at [**Pointerpro**](https://pointerpro.com/)
+- 🤖 Working with **LLM, RAG, AWS & AI Engineering**
+- 🌱 **Go, Kubernetes, DevOps & Cloud Infrastructure**
+- 🏗️ Focused on **System Design, Software Architecture & Distributed Systems**
+- 🚀 Exploring **Forward Deployed Engineering (FDE)**
+- 📖 Open-source enthusiast
+- 🇧🇪 Based in **Belgium**
+- 💬 Ask me about **Laravel, Backend Engineering, AI/RAG & System Design**
+- 📫 **shakilfci461@gmail.com**
 
+<br clear="right"/>
 
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,go,js,ts,vue,react,nodejs,mysql,postgres,redis,aws,docker,kubernetes,terraform,git,linux&perline=18" />
+</p>
+
+### 🤖 AI & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-21262D?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-21262D?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+</p>
+
+### 🚀 Engineering Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineering-FDE-21262D?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Design-21262D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-21262D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-21262D?style=flat-square" />
+</p>
+
+---
+
+### 🎯 Currently Exploring
+
+```text
+FDE           → Customer Problems · Rapid Prototyping · Production Delivery
+Backend       → Go · Distributed Systems · System Design
+AI            → LLM · RAG · Agentic Systems
+Cloud         → AWS · Kubernetes · Terraform
+Architecture  → DDD · Software Architecture · Scalability
+```
+
+---
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary><b>📊 GitHub Stats</b></summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShakilAhmmed&show_icons=true&theme=gotham" alt="ShakilAhmmed" />
+<br>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ShakilAhmmed&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilAhmmed&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
 
 </details>
 
+---
 
-
+<p align="center">
+  <i>Build · Learn · Ship · Repeat 🚀</i>
+</p>
